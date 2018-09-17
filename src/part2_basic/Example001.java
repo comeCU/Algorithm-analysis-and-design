@@ -2,15 +2,7 @@ package part2_basic;
 
 import java.util.Scanner;
 
-/**
- * 
- * @ClassName: Example001 
- * @Description: link() 
- * @author dong 
- * @date 2018年9月17日 下午9:12:23 
- * @keywords : 
- *
- */
+
 
 public class Example001 {
 	// 
