@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 
  * @ClassName: Example003 
- * @Description: 求一个矩阵的鞍点，即在行上最小而在列上最大的店
+ * @Description: 求一个矩阵的鞍点，即在行上最小而在列上最大的点
  * @author dong 
  * @date Sep 20, 2018 8:40:12 PM 
  * @keywords : 鞍点
