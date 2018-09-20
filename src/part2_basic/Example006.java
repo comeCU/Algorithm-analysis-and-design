@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class Example006 {
 
     /**
+     * 递归关系：
      * 1. Q(n, n) = 1 + Q(n, n - 1)     (m = n)
      * 2. Q(n, m) = Q(n, m - 1) + Q(n - m, m)   (m < n)
      * 终止条件：
