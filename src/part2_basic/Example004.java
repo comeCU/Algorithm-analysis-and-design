@@ -1,5 +1,14 @@
 package part2_basic;
 
+/**
+ * 
+ * @ClassName: Example004 
+ * @Description: ´òÓ¡Êý×ÖÍ¼ÐÎ
+ * @author dong 
+ * @date Sep 22, 2018 9:23:27 PM 
+ * @keywords : 
+ *
+ */
 public class Example004 {
 	
 	/**
