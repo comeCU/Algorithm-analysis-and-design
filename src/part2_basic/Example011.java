@@ -13,7 +13,7 @@ import java.util.Scanner;
  */
 public class Example011 {
     /**
-     * 得到选票结果
+     * 接收输入票选数据，得到候选人得票结果
      * @param n 候选人个数
      * @return arr 候选人编号对应数组下表，各元素值表示对应候选人的选票
      */
