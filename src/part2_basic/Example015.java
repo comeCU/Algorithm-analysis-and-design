@@ -10,7 +10,7 @@ package part2_basic;
  */
 public class Example015 {
     
-    public static int[] COINS = {0, 50, 20, 10, 5, 2, 1};   // 钱币面额种类，100不包含其中
+    public static final int[] COINS = {0, 50, 20, 10, 5, 2, 1};   // 钱币面额种类，100不包含其中
     /**
      * 
      * @param price 应付商品总价
