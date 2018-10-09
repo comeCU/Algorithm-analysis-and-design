@@ -24,7 +24,7 @@ public class Example018 {
         int carry = 0; // 进位
         int i, j;
         for(i = 0, j = len - 1; i < len; i++, j--) {
-            bitOfProduct = ((s1[j] - 48) * num + carry);  // 获得每位数的乘积
+            bitOfProduct = ((s1[j] - 48) * num + carry);  // 获得每位数的乘积。  issue：如果num足够大，bitOfProduct可能溢出
             save[i] = (int) (bitOfProduct % 10);    // bitOfProduct为长整型，需强转
             carry = (int)bitOfProduct / 10;
         }
