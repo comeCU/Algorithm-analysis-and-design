@@ -46,7 +46,6 @@ public class Example017 {
     }
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
 
         Example017 ex17 = new Example017();
         System.out.println(ex17.getLastOne(83, 100, 10) + " 号，大吉大利，今晚吃鸡！");
