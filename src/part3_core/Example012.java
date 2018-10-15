@@ -17,7 +17,7 @@ public class Example012 {
     public int[] getFreeMan(int num) {
         int[] save = new int[num+1];
         for(int i = 1; i< save.length; i++) {
-            for(int j = i; j< save.length; j = j + i) {
+            for(int j = i; j< save.length; j = j + i) { // 步长 +i
                 save[j] = 1 - save[j];  // 控制开关
             }
         }
