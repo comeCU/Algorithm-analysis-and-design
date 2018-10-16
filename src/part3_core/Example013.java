@@ -85,7 +85,7 @@ public class Example013 {
     }
     
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
+
         Example013 example013 = new Example013();
         float[] arr = {1.2323f, 23.2f, 10.0f, 20, 99.0f};
         
