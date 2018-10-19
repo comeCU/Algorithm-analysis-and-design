@@ -2,7 +2,7 @@
 
 ## 问题描述
 
-![testjxl](C:\Users\Administrator\Desktop\testjxl.png)
+![testjxl](https://github.com/comeCU/Algorithm-design-and-analysis/blob/master/images/testjxl.png)
 
 1. 测试表：保存一些用分号隔开的字符串数据，第一列数字为该组字符串中分号隔开的字符串个数。
 2. 对照表：每一个分号隔开的字符串对应一组数据。
