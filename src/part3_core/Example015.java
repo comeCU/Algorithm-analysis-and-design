@@ -2,7 +2,8 @@ package part3_core;
 /**
  * 
  * @ClassName: Example015 
- * @Description: 数列最大字段和
+ * @Description: 数列最大字段和。
+ *               参考solution:(https://leetcode.com/problems/maximum-subarray/discuss/?orderBy=most_votes)
  * @author: dong
  * @date: 2018年10月28日 上午11:14:19 
  * @keyword: 二分法不独立、dp
