@@ -34,8 +34,9 @@ public class Example009 {
                 case 1:
                     System.out.print("2");
                     break;
-                /*case 2:
-                    System.out.print("2(2)");*/ // P62，书本上有误！
+                case 2:
+                    System.out.print("2(2)");
+                    break;
                 default:
                     System.out.print("2(");
                     showIntTo2Power(r, 0);
